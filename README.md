@@ -75,7 +75,7 @@ The task is to classify short news articles into **46 mutually exclusive topics*
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🧑‍🎓 Semester Assignment – Deep Learning Course(Spring 2024)
+## 🧑‍🎓 Semester Assignment – Deep Learning Course(Spring 2024)
 
 This project was submitted as part of my Deep Learning (DL) course semester assignment.
 It showcased the implementation of a multiclass text classification model using the Reuters dataset
